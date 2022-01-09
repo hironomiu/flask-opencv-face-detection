@@ -20,7 +20,7 @@ pip install opencv-python
 
 ### カスケード型識別器
 
-`./static`配下には[OpenCV](https://github.com/opencv/opencv)の[カスケード型識別器](https://github.com/opencv/opencv/tree/4.x/data/haarcascades)にある`haarcascade_frontalface_alt.xml`を今回は利用するため適時`git clone`し配置
+`./static`配下には[OpenCV](https://github.com/opencv/opencv)の[カスケード型識別器](https://github.com/opencv/opencv/tree/4.x/data/haarcascades)にある`haarcascade_frontalface_alt.xml`を今回は利用するため適時`git clone`し`./static`ディレクトリを作成後に配置
 
 ## Run
 
